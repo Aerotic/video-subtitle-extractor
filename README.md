@@ -199,7 +199,7 @@ cd <源码所在目录>
 
 - 安装 PaddlePaddle GPU 版本（CUDA 11.8）：
   ```shell
-  pip install paddlepaddle-gpu==3.0.0rc1 -i https://www.paddlepaddle.org.cn/packages/stable/cu118/
+  pip install paddlepaddle-gpu==2.6.2 -i https://www.paddlepaddle.org.cn/packages/stable/cu118/
   pip install -r requirements.txt
   ```
 
